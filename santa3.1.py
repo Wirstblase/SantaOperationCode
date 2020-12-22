@@ -1,6 +1,7 @@
 '''
 current stats: ~52 de ore -  2 miliarde de scrisori
 ~2 milioane de scrisori -> 188 secunde
+sa le multumiti lui Suflea si lui Laur =))
 '''
 import re
 import json
